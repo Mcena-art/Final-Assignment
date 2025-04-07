@@ -4,7 +4,7 @@ This Point of Sale system represents a simple console-based shopping cart system
 Gabrielle Lewis and McEna Blackwood
 April 01, 2025
 Course: ITT103
-
+https://github.com/Mcena-art/Final-Assignment.git
 # How to run the system 
 
 The product_catalog is a dictionary where:
